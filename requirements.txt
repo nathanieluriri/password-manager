@@ -1,0 +1,9 @@
+streamlit
+streamlit-lottie
+pymodm==0.4.3
+bcrypt
+python-dotenv
+yagmail
+pymongo[srv]
+st-login-form
+cryptography
